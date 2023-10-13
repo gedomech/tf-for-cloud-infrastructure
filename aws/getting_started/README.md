@@ -31,7 +31,7 @@ Before using this project, ensure that you have the following prerequisites inst
 
 4. Review and customize the configuration in the `main.tf` file.
 
-   - `ami` - Replace `"ami-1234567891012"` with the desired AMI ID.
+   - `ami` - Replace `"ami-1234567891012"` with the desired AMI ID. Visit [AWS Documentation](https://docs.aws.amazon.com/AWSEC2/latest/WindowsGuide/finding-an-ami.html) for more information.
    - `instance_type` - Replace `"t2.micro"` with the desired instance type.
 
 5. Deploy the AWS EC2 instance.
