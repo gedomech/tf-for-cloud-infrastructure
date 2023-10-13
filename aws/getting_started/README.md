@@ -53,7 +53,7 @@ To remove the deployed AWS EC2 instance and associated resources:
 1. Navigate to the project directory.
 
    ```bash
-   cd terraform-aws-ec2-instance
+   cd getting_started
    ```
 
 2. Destroy the resources.
