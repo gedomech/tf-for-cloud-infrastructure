@@ -6,6 +6,7 @@ This Terraform project allows you to deploy an Amazon Web Services (AWS) EC2 ins
 Before using this project, ensure that you have the following prerequisites installed:
 
 - [Terraform](https://www.terraform.io/downloads.html) (Version >= 1.0.0, < 2.0.0)
+- An [AWS account](https://aws.amazon.com/) with configured AWS credentials.
 - [AWS CLI](https://aws.amazon.com/cli/) configured with your AWS credentials and default region.
 
 ### Usage
