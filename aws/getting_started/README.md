@@ -40,7 +40,7 @@ Before using this project, ensure that you have the following prerequisites inst
    terraform apply
    ```
 
-6. Review the changes and type "yes" when prompted to confirm the deployment.
+6. Review the changes and type "yes" when prompted to confirm the deployment (or use the --auto-approve flag to avoid the confirmation).
 
    The Terraform script will create the specified EC2 instance in the "us-east-2" region.
 
